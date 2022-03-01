@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		E82ABF9E27CEB7F8001DE811 /* ciurul_lui_eratostene */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ciurul_lui_eratostene; sourceTree = BUILT_PRODUCTS_DIR; };
 		E82ABFA127CEB7F8001DE811 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E82ABFA827CEBB21001DE811 /* date.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = date.in; sourceTree = "<group>"; };
+		E82ABFA927CEBB30001DE811 /* date.out */ = {isa = PBXFileReference; lastKnownFileType = text; path = date.out; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				E82ABFA127CEB7F8001DE811 /* main.cpp */,
+				E82ABFA827CEBB21001DE811 /* date.in */,
+				E82ABFA927CEBB30001DE811 /* date.out */,
 			);
 			path = ciurul_lui_eratostene;
 			sourceTree = "<group>";
